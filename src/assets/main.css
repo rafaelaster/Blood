@@ -1,0 +1,9 @@
+@import './base.css';
+body {
+    background-color: #f4f3e6; /* Χρώμα για όλο το background της σελίδας */
+    margin: 0; /* Αφαιρεί τα προεπιλεγμένα περιθώρια */
+    height: 100vh; /* Καθορίζει ότι το σώμα καταλαμβάνει όλο το ύψος του viewport */
+    width: 100vw; /* Καθορίζει ότι το σώμα καταλαμβάνει όλο το πλάτος του viewport */
+    box-sizing: border-box; /* Περιλαμβάνει padding και border στα υπολογισμένα πλάτη και ύψη */
+  }
+
